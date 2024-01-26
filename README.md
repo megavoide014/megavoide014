@@ -1,29 +1,17 @@
-### Hi there 👋
+## Bem-vindo(a) ao perfil do Dev em Dobro 😁
 
-<!--
-**megavoide014/megavoide014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ <div>
+   <a href="https://github.com/megavoide014">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=megavoide014&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=megavoide014&layout=compact&langs_count=6&theme=midnight-purple"/>
+</div>
+    
+<div style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+ 
+<br>
+ 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-"midnight-purple": {
-    title_color: "9745f5",
-    icon_color: "9f4bff",
-    text_color: "ffffff",
-    bg_color: "000000",
-  },
-  calm: {
-    title_color: "e07a5f",
-    icon_color: "edae49",
-    text_color: "ebcfb2",
-    bg_color: "373f51",
-  },
