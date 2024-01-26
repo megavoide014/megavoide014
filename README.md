@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+"midnight-purple": {
+    title_color: "9745f5",
+    icon_color: "9f4bff",
+    text_color: "ffffff",
+    bg_color: "000000",
+  },
+  calm: {
+    title_color: "e07a5f",
+    icon_color: "edae49",
+    text_color: "ebcfb2",
+    bg_color: "373f51",
+  },
